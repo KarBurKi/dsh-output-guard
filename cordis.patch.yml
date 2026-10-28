@@ -1,0 +1,5 @@
+# dsh-output-guard：灰模式输出守卫，只观测不中止。
+# 挂进 profile 的插件树（Host 半），监听 agent/assistant-stream 与 session/event。
+- insert:
+    - id: output-guard
+      name: dsh-output-guard
