@@ -1,6 +1,6 @@
 {
   "name": "dsh-output-guard",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "输出守卫（灰模式）：只观测、不中止。记录每轮思考量、最严重重复率与触发信号，写 events.jsonl 供定阈值。",
   "type": "module",
   "main": "lib/index.js",
